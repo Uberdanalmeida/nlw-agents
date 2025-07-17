@@ -1,8 +1,6 @@
 # NLW Agents - Assistente de Meta para Jogos
 
-<p align="center">
-  <img src="./assets/logo.png" alt="NLW Agents Logo" width="200"/>
-</p>
+![profile](./Imagem/Nlw-agents.png)
 
 Este projeto é um **Assistente de Meta para Jogos** desenvolvido durante o evento NLW (Next Level Week). Ele permite que você faça perguntas sobre estratégias, builds e dicas para seus jogos favoritos, utilizando a API do Google Gemini para gerar as respostas.
 
@@ -56,7 +54,3 @@ Para configurar e rodar este projeto localmente, siga os passos abaixo:
 2.  **Selecione um Jogo**: Escolha o jogo para o qual você deseja uma dica (Valorant, League of Legends, CS:GO).
 3.  **Faça sua Pergunta**: Digite sua pergunta no campo de texto, por exemplo: "Melhor build para ADC..." ou "Estratégias para o mapa Ascent no Valorant".
 4.  **Clique em "Perguntar"**: A IA irá processar sua solicitação e exibir a resposta abaixo do formulário.
-
----
-
-## 📄 Estrutura do Projeto
