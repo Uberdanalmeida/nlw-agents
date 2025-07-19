@@ -1,6 +1,6 @@
 # NLW Agents - Assistente de Meta para Jogos
 
-![profile](./Imagem/Nlw-agents.png)
+![profile](./Imagem/nlw-agents.png)
 
 Este projeto é um **Assistente de Meta para Jogos** desenvolvido durante o evento NLW (Next Level Week). Ele permite que você faça perguntas sobre estratégias, builds e dicas para seus jogos favoritos, utilizando a API do Google Gemini para gerar as respostas.
 
